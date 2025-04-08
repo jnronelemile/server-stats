@@ -1,8 +1,3 @@
-=======================================
-Script : Analyse des performances serveur
-Auteur : Jean Ronel
-Description : Script Bash pour superviser l'état d’un serveur Linux
-=======================================
 
 # 🔍 Server Performance Analyzer
 
@@ -55,16 +50,3 @@ Ce script permet d’analyser en temps réel :
    ```bash
    chmod +x server-stats.sh
 
-
-# EXEMPLE
-
----------
-
-$ ./server-stats.sh
-
-       Analyse des performances serveur
-==============================================
-
-1. Usage CPU
-2. Usage Memory
-...
